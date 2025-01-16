@@ -739,17 +739,17 @@ productsectionanimation();
 var reviewanimation = () => {
   var reviews = [
     {
-      name: "Navdeep",
+      name: "RADHA",
       review:
         "Mivi Earbuds Exceed Expectations! Exceptional Sound Clarity, Snug Fit For Active Use, And Impressive Battery Life. A Must-Have For Music Lovers On The Go!",
     },
     {
-      name: "Aravindo",
+      name: "Radha",
       review:
         "Mivi Soundbars Elevate Home Audio With Cinematic Sound, Sleek Design, And Powerful Bass. Transform Your Home Space Into An Entertainment Hub!",
     },
     {
-      name: "Ananya",
+      name: "Radhapandey",
       review:
         "Mivi Speakers Redefine Audio Excellence With Crystal-Clear Sound, Stylish Design, And Effortless Portability. Elevate Your Listening Experience To New Heights.",
     },
